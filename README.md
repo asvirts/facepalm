@@ -1,4 +1,4 @@
-# facepalm
+# Facepalm
 
  A better social media platform.
 
